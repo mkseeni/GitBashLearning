@@ -1,0 +1,4 @@
+my name is cni. 
+i am here check file changes using git bash
+i want to add few more lines in this project
+so that i can become familier with git bash operations
